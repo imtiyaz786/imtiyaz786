@@ -10,6 +10,7 @@
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=black)
 ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,7 +37,7 @@
 
 
 
-# Badges
+#
 <!-- GitHub Stats -->
 ![Badge](https://github-readme-stats.vercel.app/api?username=imtiyaz786&theme=midnight-purple&show_icons=true)   
 
