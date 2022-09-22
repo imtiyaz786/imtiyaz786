@@ -3,7 +3,7 @@
 - Hi 👋, I'm Imtiyaz
 - 🔭 A Software Engineer working on .NET
 - 🌱 A DevOps Enthusiast
-- 👯 I’m looking to collaborate on opensource projects
+- 👯 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: iali75637@gmail.com
 
 # 💼 Tech Stack
