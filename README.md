@@ -37,33 +37,6 @@
 
 
 
-#
-<!-- GitHub Stats -->
-![Badge](https://github-readme-stats.vercel.app/api?username=imtiyaz786&theme=midnight-purple&show_icons=true)   
-
-<!-- Streak Stats-->
-![Badge](https://github-readme-streak-stats.herokuapp.com/?user=imtiyaz786&theme=midnight-purple&show_icons=true)
-
-<!-- Activity Graph
-![Badge](https://activity-graph.herokuapp.com/graph?username=imtiyaz786&theme=minimal)
--->
- 
-<!-- Profile Summary Card
-![Badge](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imtiyaz786&theme=vue)
--->
-
-<!-- Most Used Language
-![Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiyaz786)
--->
-
-<!-- Profile Hits Counter
-![Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimtiyaz7861212%2Fhit-counter)
--->
-
-
-<!-- Trophy Stats
-![Badge](https://github-profile-trophy.vercel.app/?username=imtiyaz786)
--->
 
 <!--
 **imtiyaz786/imtiyaz786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
