@@ -1,10 +1,10 @@
 # About Me
    
 - Hi 👋, I'm Imtiyaz
-- 🔭 Jr. Software Engineer working on .NET
-- 🌱 A DevOps Enthusiast
-- 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me: iali75637@gmail.com
+-  Jr. Software Engineer working on .NET
+-  A DevOps Enthusiast
+-  I’m looking to collaborate on open-source projects
+-  How to reach me: iali75637@gmail.com
 
 # 💼 Tech Stack
 
